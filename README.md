@@ -1,6 +1,6 @@
-# under-construction
+# tailwind-css-snowpack-template
 
-Empty project.
+A starter template that uses TailwindCSS and Snowpack
 
 ## How to run on localhost
 
@@ -23,8 +23,3 @@ To create a production build:
 ```sh
 npm run build
 ```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
-
