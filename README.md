@@ -2,6 +2,9 @@
 
 A starter template that uses TailwindCSS and Snowpack
 
+## Usage
+
+
 ## How to run on localhost
 
 First install dependencies:
